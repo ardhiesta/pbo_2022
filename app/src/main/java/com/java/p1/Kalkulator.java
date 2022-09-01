@@ -1,8 +1,11 @@
 package com.java.p1;
 
+import com.java.App;
+
 public class Kalkulator {
 	// atribut
 	Double bil1, bil2;
+	App app;
 
     public static void main(String[] args) {
         // membuat objek dari class Kalkulator
