@@ -4,7 +4,7 @@ public class LatihanVariabel1 {
 	public static void main(String[] args) {
 		int myNum = 5;               // Integer (whole number)
 		float myFloatNum = 5.99f;    // Floating point number
-		char myLetter = 'D';         // Character
+		char myLetter = '2';         // Character
 		boolean myBoolean = true;       // Boolean
 		String myText = "Hello";     // String
 		
