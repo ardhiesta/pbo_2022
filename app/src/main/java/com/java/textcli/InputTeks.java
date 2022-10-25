@@ -27,6 +27,7 @@ public class InputTeks {
 			PrintWriter outStream = new PrintWriter(outFileStream);
 			outStream.print(teks);
 			outStream.close();
+			System.out.println("file berhasil disimpan");
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
